@@ -23,7 +23,7 @@ Wed:	Educational reel
 Fri:	Product showcase  
 Sun:	Community/UGC  
 
-🚀 5 Engagement Growth Strategies
+🚀 5 Engagement Growth Strategies  
 Post during peak engagement hours  
 Use top-performing hashtags (5–8 per post)  
 Prioritize carousel & reel content  
