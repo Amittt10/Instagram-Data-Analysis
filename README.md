@@ -14,3 +14,18 @@ Python, Pandas, Matplotlib, Seaborn, WordCloud, Google Colab
 📁 Dataset  
 Kaggle – Instagram Dataset by Bhanu Pratap Biswas  
 https://www.kaggle.com/datasets/bhanupratapbiswas/instgram
+
+
+📅 Recommended Content Calendar (Alfido Tech)  
+Day	Content  
+Mon:	Tech tips carousel  
+Wed:	Educational reel  
+Fri:	Product showcase  
+Sun:	Community/UGC  
+
+🚀 5 Engagement Growth Strategies
+Post during peak engagement hours  
+Use top-performing hashtags (5–8 per post)  
+Prioritize carousel & reel content  
+Add CTA (“Save”, “Share”, “Comment”)  
+Maintain consistent weekly posting
