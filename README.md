@@ -8,22 +8,22 @@ Hashtag performance analysis
 Content type comparison  
 Follower growth trend analysis
 
-Tools Used  
+## Tools Used  
 Python, Pandas, Matplotlib, Seaborn, WordCloud, Google Colab
 
-Dataset  
+## Dataset  
 Kaggle – Instagram Dataset by Bhanu Pratap Biswas  
 https://www.kaggle.com/datasets/bhanupratapbiswas/instgram
 
 
-Recommended Content Calendar (Alfido Tech)  
+## Recommended Content Calendar (Alfido Tech)  
 Day	Content  
 Mon:	Tech tips carousel  
 Wed:	Educational reel  
 Fri:	Product showcase  
 Sun:	Community/UGC  
 
-5 Engagement Growth Strategies  
+## 5 Engagement Growth Strategies  
 Post during peak engagement hours  
 Use top-performing hashtags (5–8 per post)  
 Prioritize carousel & reel content  
